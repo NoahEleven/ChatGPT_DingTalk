@@ -1,6 +1,7 @@
 # 用 JavaScript 五分钟开发一个钉钉 ChatGPT 机器人
 
 本文帮助你快速实现一个钉钉对话机器人，并在其中接入 ChatGPT 的能力，可以直接问它问题，也可以在群聊天中 at 它，返回 ChatGPT 的回答。（以下为效果截图）
+修改后增加了连续聊天并修改了GPT模型
 
 <p align="center"><img src="https://docs-cn.aircode.io/_images/tutorials/dingtalk-chatgpt/demo-screenshot.jpeg" width="665px" /></p>
 
